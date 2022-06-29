@@ -1,5 +1,5 @@
 import { SiGithub, SiLinkedin } from "react-icons/si";
-import '../SassStyles/index.scss';
+import '../SassStyles/App.scss';
 import resume from '../Assets/resume.pdf'
 import profile from '../Assets/profile.jpeg'
 
