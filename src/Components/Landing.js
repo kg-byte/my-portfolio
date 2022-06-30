@@ -1,7 +1,7 @@
 import React from 'react'
 import { SiGithub, SiLinkedin } from "react-icons/si"
-import headshot from '../Assets/profileHeadshot.jpeg'
 import '../SassStyles/Landing.scss'
+import profile from '../Assets/profile.jpeg'
 
 const Landing = () => {
   return (
