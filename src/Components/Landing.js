@@ -15,7 +15,7 @@ const Landing = () => {
       </div>
       <div className="info-container">
           <h2>Hello and welcome!</h2>
-          <p>I am an avid beginner golfer, an anime lover, and a proud Chiweenie owner.</p>
+          <p>I am Xiaole Guo, an avid beginner golfer, an anime lover, and a proud Chiweenie owner.</p>
           <p>Coming from a dynamic industry like chemical engineering, I thrive in energetic and fast-paced environments.</p>
           <p>Problem-solving is my passion and what motivated me to become a software developer. I believe in fairness, honesty, and taking the initiative to get work done.</p>
           <p>As a software engineer, I strive to write clean, and organized code that is well-tested, to maintain a focused work flow, and to foster meaningful work relationships.</p>
