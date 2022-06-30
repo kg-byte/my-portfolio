@@ -4,7 +4,7 @@ import '../SassStyles/App.scss';
 import Landing from './Landing'
 import Projects from './Projects';
 import About from './About';
-import resume from '../Assets/resume.pdf'
+import resume from './../Assets/resume.pdf'
 
 function App() {
   return (
